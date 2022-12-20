@@ -1,4 +1,4 @@
-# CODESMITH-DSML-Alpha 2 - TRANSFER LEARNING PROJECT
+# CODESMITH-DSML-Alpha 2 - Transfer Learning Project
 Team: Kevin Lam + Natalie Umanzor + Silvia Kocsis
 
 
