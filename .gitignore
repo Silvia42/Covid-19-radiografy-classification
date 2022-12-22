@@ -3,3 +3,13 @@
 .env
 venv/
 env/
+
+<<<<<<< HEAD
+# Model
+fullmodel
+model/fullmodel
+=======
+# model
+fullmodel
+model/fullmodel
+>>>>>>> 2f700c0d (Add gitignore to ignore fullmodel)
