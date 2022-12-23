@@ -3,3 +3,7 @@
 .env
 venv/
 env/
+
+# model
+fullmodel
+model/fullmodel

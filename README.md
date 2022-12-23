@@ -18,3 +18,5 @@ https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database?reso
 1. Load data into S3 bucket
 
 ## Configurations
+
+1. tf_gqu.txt contains the requirements needed to set RTX3080 on win64 platform as the gpu for Tensorflow. Installation should be done with Conda
